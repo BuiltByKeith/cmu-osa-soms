@@ -1,0 +1,1 @@
+dungag ug isSeen nga boolean field sa act_attachment nga table para mu filter sa mga document nga bag o gi upload 
